@@ -15,9 +15,9 @@ This repository goes together with a [series of posts](https://engineering.hexac
 | [Components and State](https://engineering.hexacta.com/didact-components-and-state-53ab4c900e37)                                                |       [codepen](https://codepen.io/pomber/pen/RVqBrx)        |                                                                                           [diff](https://github.com/hexacta/didact/commit/2e290ff5c486b8a3f361abcbc6e36e2c21db30b8)                                                                                           |            [中文](https://github.com/chinanf-boy/didact-explain#4-%E7%BB%84%E4%BB%B6%E5%92%8C%E7%8A%B6%E6%80%81)            |
 | [Fiber: Incremental reconciliation](https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec) (self-contained post) |       [codepen](https://codepen.io/pomber/pen/veVOdd)        |                                              [diff](https://github.com/hexacta/didact/commit/6174a2289e69895acd8fc85abdc3aaff1ded9011) [diff](https://github.com/hexacta/didact/commit/accafb81e116a0569f8b7d70e5b233e14af999ad)                                              |             [中文](https://github.com/chinanf-boy/didact-explain#5-fibre-%E9%80%92%E5%A2%9E%E5%AF%B9%E6%AF%94)              |
 | [The one with Hooks](https://pomb.us/build-your-own-react) (self-contained post)                                                                |    [codesandbox](https://codesandbox.io/s/didact-8-21ost)    |                                                                                                                                                                                                                                                                               |  [中文](https://www.tangdingblog.cn/blog/react/buildyourownreact-2020-09-22/)                                                                                                                         | -->
-
+<!-- 
 > Follow [@pomber](https://twitter.com/pomber) on twitter for updates.
 
-## License
+## License -->
 
 The MIT License (MIT)
